@@ -1,17 +1,17 @@
 # repositorio
-Desafio de Programação Capgemini
+Desafio de Programação Capgemini 02/2022
 
 Tecnologia utilizada: Python 3.10.2
 
-Instruções:
+Instruções para rodar aplicação:
 
-Download Python version 3.10.2:
+Fazer download do programa Python version 3.10.2 no link abaixo:
 
 https://www.python.org/downloads/
 
-Instalar o arquivo baixado
+Instalar o arquivo baixado.
 
-Para executar o arquivo:
+Executar o arquivo baixado com os seguintes passos:
 
 - Abrir o cmd ou terminal
 - Navegar até a pasta com o comando "cd"
