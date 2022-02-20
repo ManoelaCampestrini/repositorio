@@ -1,8 +1,10 @@
 # repositorio
 Desafio de Programação Capgemini
+
 Tecnologia utilizada: Python 3.10.2
 
 Intruções:
+
 Download Python version 3.10.2
 https://www.python.org/downloads/
 
