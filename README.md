@@ -5,10 +5,11 @@ Tecnologia utilizada: Python 3.10.2
 
 Instruções:
 
-Download Python version 3.10.2
+Download Python version 3.10.2:
+
 https://www.python.org/downloads/
 
-Instalar arquivo
+Instalar o arquivo baixado
 
 Para executar o arquivo:
 
